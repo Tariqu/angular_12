@@ -6,7 +6,5 @@ import { Component } from "@angular/core";
   styleUrls: ["./app.component.css"]
 })
 export class AppComponent {
-  callFuc(e) {
-    console.log(e);
-  }
+  name = "Tarique";
 }
